@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2012-05-25 23:50:56
+layout: post
+slug: first-car
+title: First Car
+---
+
+![New Car](/resources/car.png)
+
+Last Month i bought my first car a [Honda Brio](http://www.hondacarindia.com/hondabrio/index.html) and i am absolutely loving it. 
+Bangalore's traffic is pretty bad and not to mention the problems with finding parking, but i guess it will take me a while to get used to these issues.
+

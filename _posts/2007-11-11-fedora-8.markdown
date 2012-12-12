@@ -1,0 +1,23 @@
+---
+comments: true
+date: 2007-11-11 18:44:34
+layout: post
+slug: fedora-8
+title: Fedora 8 the Werewolf
+wordpress_id: 309
+tags:
+- None
+- 6515b
+- ankur
+- fedora 8
+- hp
+---
+
+So finally Fedora 8 is here and i am still confused about what to use as my base OS Ubuntu / OpenSUSE / Fedora or Debian, anyway more on that Later, so here are the First impressions........
+I booted into the Fedora 8 Live Gnome CD on my HP6515b Lapptop and the cool grub splash i was greated with the X server error and there i was searching for my pen drive for the ATI Drivers,  which was no were to be seen which forced me to search for the drivers in my not so arranged data, after struggling for some minutes and mounting 2-3 drives i finally found them, after the drivers were installed everything ran fine and i was presented with  a nice Gnome desktop and i really liked the wallpaper, it made every thing look great, then clicking on  install to Hard Drive gave me a Ubuntu Like install Wizard. the only problem i faced was with grub boot options it should have looked for the GNU/Linux distro's  already installed (dont care/know about Windows as i dont have it) on my system but scinse in had my boot loader on MBR that was wiped clean, anyway setting up GRUB in not that hard i just reinstalled grub with my SUSE partition as root and added the Fedora entries to the menu.lst and the job was done.
+
+Anyways overall the experience was good without any trouble (except for the drivers about which nothing can be done by them) but one problem that i face is again with my Broadcom WiFi chipset for which i will have to use ndiswrapper which is giving trouble installing, anyways i have only worked on that for 5 min but its not a big problem and will soon be solved.
+
+Update 1 :- i formated my previous installation with  64bit DVD version
+
+Update 2 :- WiFi problem was there because i was using ndiswrapper package build for kernel 2.6.23.1-49 while mine was 2.6.23.1-42 buildig ndiswrapper from the source solved the problem.

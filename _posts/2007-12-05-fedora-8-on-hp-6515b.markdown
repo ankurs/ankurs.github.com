@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2007-12-05 00:19:17
+layout: post
+slug: fedora-8-on-hp-6515b
+title: Fedora 8 on HP 6515b
+wordpress_id: 315
+---
+
+Well i have installed Fedora 8 now and well i was facing the usual problems, install proceeded well in text mode without any problems but on booting after the ATI driver install i was presented with a console login that is no xserver started and then started the problem with WiFi, ndiswrapper wont install it took me no time to find that the kernel version was different of the rpm package of ndiswrapper that i had, so i went about every were searching for it but was not able to find what i was looking for so finally i had to go for compiling of ndiswrapper from source.This done i was left with a text only system i mean i can always start xserver by typing startx after logging in but i wont boot on startup, so i was think a way to get gdm to start on system startup and there i was searching for the rc scripts i remember reading about them in Slack Book, after adding gdm to the rc.local file i was now happily using Laptop with Fedora
+
+ok so lets come to the point how exactly did i solved these problems for installing ATI driver i have already explained it earlier [here](http://warofwords.wordpress.com/2007/10/07/using-ubuntu-on-hp-6515b-ati-x1250/) and [here](http://lug-manipal.manishtech.info/2007/11/20/installing-any-linux-on-hp-compaq-6515b/) , so now moving to ndiswrapper
+
+you need to download the source code (the .tar.gz file) from [http://ndiswrapper.sourceforge.net](http://ndiswrapper.sourceforge.net) well from any other computer if you have net access only by WiFi, after u have the tar.gz file copy it to any folder like your home folder ( `/home/<username>/` ) now simply right click on it and select extract here, now you have a directory with all the files of source code but to compile the source you will need to install some more software from the DVD for this go to Add/Remove Software in the Applications menu, enter your root password when it will open it will give you error saying something like Repository could not be updated so go to repositories in that and let the tick be there only in front of Install Media remove that tick from every other option, here select Development then tick Development Tools (remove them after compiling if you wont use them), after that go to Search tab and select All packages, there search for 'Kernel headers' you will find a package with name of **Kernel-headers - 2.6.23.1-42** select that, click apply it will ask you for the DVD insert it and packages will be installed, now you can happily compile your ndiswrapper source
+
+For compiling open up a Terminal from `Applications >> System Tools >> Terminal` type ' su ' , enter your password now type
+
+    cd /home/<user name>/<name of ndiswrapper directory>/
+
+now when in the ndiswraper directory type
+
+    make uninstall
+
+to remove any previous non working  installs of ndiswrapper, after that type
+
+    make 
+
+here you if you see a error then you probably dont have the correct/complete source or are missing a required package, if it proceeds without a error which it will then you just need to install ndiswrapper type
+
+    make install
+
+your work is now over you just need to install the windows driver by the method which i have described [here](http://warofwords.wordpress.com/2007/10/08/using-wifi-in-ubuntu-on-hp-6515b-broadcom/) all done now let us proceed to the xserver problem
+
+For this just login as root ( which i wont prefer but is best for this time ) and type ' startx ' at the prompt after logging in then go to /etc/ in the file browser there right click on ' inittab ' file and select open with "Text Editor" in the file there will be some thing written as
+
+    id:3:initdefault:
+
+change that to
+
+    id:5:initdefault:
+
+and save the file, reboot and you will be greeted by a nice Fedora Infinity Screen enjoy!!!!

@@ -1,0 +1,33 @@
+---
+comments: true
+date: 2007-07-04 00:50:49
+layout: post
+slug: iphone
+title: No iPhone for Me
+wordpress_id: 282
+---
+
+<img src='http://ankurs.com/wp-content/uploads/2007/07/iphonehero.jpg' width="100%" /> 
+
+Well i know this is kind of a late post about one of the most  hyped product the Apple iPhone which is currently being sold in USA for a hefty price and already being used by more then 5,00,000 LUCKY people or not so lucky considering they will have to use AT&T's network for 2 years, sticking for a single operator for 2 years now thats something bad, I know manny people who dot stick to a single operator for more then 2 months forget about 2 years ooh where m i going. So aah... coming to the point what will i personally say about the iPhone i mean would i really like to buy it given i have the money, well the answer is surprisingly NO. i would like to tell you my points for that
+
+1. iPhone comes with a 2 YEAR CONTRACT,well i dont know about what will be the case in India but that is a very strong point o me. I mean i would not really like to stick to a operator and miss those new SIM benefits lol
+
+2. i know it runs a striped down version of Mac os X and Safari but it has got NO SDK ( Software Developement Kit) which means there will be no killer apps, it has webapps which are basicly AJAX  apps which runs through Safari but then any Symbian phone with OS 9.3 or above can also run most of them
+
+3. this might be a big reason for many people, iPhone has NO VIDEO RECORDING, cant believe what is written here but its true. It may be having that 2 megapixel camera but it really dont have video recording support.
+
+4. NO CUSTOM RINGTONE ya you cant have one of your favorate mp3 tone as ringtone
+
+5. NO GPS ya i know for most of the people its of no use but Google maps with GPS would rock
+
+6. NO IM no SDK no apps no IM as simple as that but u can have those WAP ones but they suck big time
+
+7. ALL IPOD ACCESSORIES WONT WORK that means buying seperate accessories for iPod and iPhone
+
+8. **NO FLASH SUPPORT** which means  although it has Safari Browser it wont be able to  open those flash sites
+
+So my conclusion, i rather wait for  [Openmoko](http://warofwords.wordpress.com/openmoko.org) or go for [Nokia N95](http://en.wikipedia.org/wiki/Nokia_N95)
+
+UPDATE:- most of these problems might get solved with its new firmware which is expected to be released around September.
+
