@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Ankur's Blog!
+title: Life Universe and Everything!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
