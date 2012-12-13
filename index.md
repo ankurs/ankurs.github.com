@@ -9,7 +9,7 @@ tagline:
 
 {% for post in site.posts %}
     {% if forloop.index < 5 %}
-#{{ post.title }} # 
+#[{{ post.title }}] ({{ post.url}})# 
 Published:
 <span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span>
 <span class="day">{{ post.date | date: '%d' }}</span>
