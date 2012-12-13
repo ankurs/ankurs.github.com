@@ -1,16 +1,27 @@
 ---
 layout: page
-title: Life Universe and Everything!
-tagline: Supporting tagline
+title: Recent Posts
+tagline: 
 ---
 {% include JB/setup %}
 
-{% assign first_post = site.posts.first%}                                                                                                                                                                  
+{% assign first_post = site.posts.first %}                                                                                                                                                                  
 
-# Latest - {{ first_post.title }} #
+{% for post in site.posts %}
+    {% if forloop.index < 5 %}
+#{{ post.title }} # 
+Published:
+<span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span>
+<span class="day">{{ post.date | date: '%d' }}</span>
+<span class="year">{{ post.date | date: '%Y' }}</span>
 
-{{ first_post.content | truncatewords: 250 }}
 
-[Read More &raquo;]({{ first_post.url}})
+{{ post.content | truncatewords: 250 }}
 
+[Read More &raquo;]({{ post.url}})
+    {% endif %}
+{% endfor %}
 
+-----------------------------------
+
+### [See All Posts](/archive.html) ###
