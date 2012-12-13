@@ -31,4 +31,4 @@ now type
 
     apt-get install ndiswrapper-utils-1.9
 
-now you are ready to install the drivers for that follow [this](http://ankurs.com/2007/10/08/using-wifi-in-ubuntu-on-hp-6515b-broadcom/) enjoy
+now you are ready to install the drivers for that follow [this](http://blog.ankurs.com/2007/10/using-wifi-in-ubuntu-on-hp-6515b-broadcom/) enjoy

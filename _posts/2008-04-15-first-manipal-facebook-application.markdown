@@ -12,7 +12,7 @@ tags:
 - mit
 ---
 
-![mitchar](http://ankurs.com/wp-content/uploads/2008/04/mitchar.png)
+![mitchar](http://files.ankurs.com/mitchar.png)
 
 
 I have made a facebook application on the lines of all those What ______ are you??? and its [What MIT Character are You???](http://apps.facebook.com/mitcharacter/) its written in PHP and is well the First Manipal Facebook application as fas as i know..... and well i am seriously waiting for more questions for the app so plz tell me if you have any

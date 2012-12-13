@@ -12,7 +12,7 @@ tags:
 - openmoko
 ---
 
-![openmoko](http://ankurs.com/wp-content/uploads/2008/06/openmoko-300x274.jpg)
+![openmoko](http://files.ankurs.com/openmoko-300x274.jpg)
 
 
 We all have been listening ( reading ) a lot about the new iPhone 3G and how it is different, better and well cheaper from the first generation iPhone and a question came to my mind with [Airtel](http://airtel.in/iphone3g) and [Vodafone](http://vodafone.in/existingusers/iphone/pages/book-iPhone.aspx) planning to launch iPhone what will happen to Openmoko how many people know about it and well its available in India at a price of around RS. 20,000 by [IDA system](http://idasystems.net/freerunner) its really a great Phone to own actually Openmoko Freerunner is the second phone which will run Openmoko software and is similar to the first Neo 1973 its specification are

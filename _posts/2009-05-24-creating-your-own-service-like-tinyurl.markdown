@@ -98,4 +98,4 @@ then our url.php file
     ?>
 
 
-Download [here](http://ankurs.com/wp-content/uploads/2009/05/urltar.gz)
+Download [here](http://files.ankurs.com/urltar.gz)

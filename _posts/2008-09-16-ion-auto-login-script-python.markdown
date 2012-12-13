@@ -28,7 +28,7 @@ i was just thinking about making the very famous IAL script of DJ in python and 
 
 
 
-or [downlaod](http://fb.ankurs.com/ial.py)
+or [downlaod](http://files.ankurs.com/ial.py)
 
 run it by typing `python ial.py`
 

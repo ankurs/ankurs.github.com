@@ -13,7 +13,7 @@ tags:
 
 [fireforx 3.0](http://releases.mozilla.org/pub/mozilla.org/firefox/releases/3.0/)
 
-[![ff3](http://ankurs.com/wp-content/uploads/2008/06/screenshot-300x187.png)](http://ankurs.com/wp-content/uploads/2008/06/screenshot.png)
+[![ff3](http://files.ankurs.com/screenshot-300x187.png)](http://files.ankurs.com/screenshot.png)
 
 Finally after a delay of about 1.5 hours Firefox 3 is here and the download link is [here](http://releases.mozilla.org/pub/mozilla.org/firefox/releases/3.0/) World Record here we come
 

@@ -7,7 +7,7 @@ title: multiple mouse / keyboard in linux
 wordpress_id: 709
 ---
 
-[![4 mouse cursors on a single screen](http://ankurs.com/wp-content/uploads/2010/10/mpx-300x225.jpg)](http://ankurs.com/wp-content/uploads/2010/10/mpx.jpg)
+[![4 mouse cursors on a single screen](http://files.ankurs.com/mpx-300x225.jpg)](http://files.ankurs.com/mpx.jpg)
 
 few days ago i came upon an article about human computer interactions which mentioned different ways we interact with computes and how we will interact with computers in future, the article instantly reminded me of [MPX](http://en.wikipedia.org/wiki/Multi-Pointer_X), now i dont know how many of you remember [MPX](http://en.wikipedia.org/wiki/Multi-Pointer_X) which enabled interaction of multiple mouse/keyboards in linux. [Xserver](http://en.wikipedia.org/wiki/X_Window_System) 1.7 which is used in most of the disto's was released with MPX, so i decided to find out how to make it work on my existing Fedora 13 box, and using it is pretty simple you just need to use xinput and configure X for multiple input, for that you first need to install xinput, on fedora it is provided by the package "xorg-x11-apps" just do a 
     

@@ -7,7 +7,7 @@ title: Dell XPS 1530
 wordpress_id: 383
 ---
 
-[![Fedora 9 on Dell XPS M1530](http://ankurs.com/wp-content/uploads/2008/07/10072008002-300x225.jpg)](http://ankurs.com/wp-content/uploads/2008/07/10072008002.jpg)
+[![Fedora 9 on Dell XPS M1530](http://files.ankurs.com/10072008002-300x225.jpg)](http://files.ankurs.com/10072008002.jpg)
 
 Finally after waiting for a long time my Dell XPS 1530 arrived yesterday and it really rockss, i was supposed to get it on 3rd July but continuous delay were caused by curfew in Indore and some other factors.
 
@@ -22,12 +22,12 @@ The Config is
 It looks gr8 far better then what i previously owned, HP 6515b which was given by my college MIT, Manipal.
 As soon as i received my Dell first think i did was to run Windows Performance Index and the score came out to be 5.0 with 5.0 being the lowest score because of my 3GB RAM!!!
 
-[![Vista Index of 5.0 for my laptop](http://ankurs.com/wp-content/uploads/2008/07/09072008001-300x225.jpg)](http://ankurs.com/wp-content/uploads/2008/07/09072008001.jpg)
+[![Vista Index of 5.0 for my laptop](http://files.ankurs.com/09072008001-300x225.jpg)](http://files.ankurs.com/09072008001.jpg)
 
 I tried some Windows Media Centre and then it was time to say vista good bye and say hello to Fedora 9, the install went without a hitch but when i booted i  that my mouse was not working, a quick search on forums and i had the solution add `i8042.nomux=1 ` as a kernel parameter and every thing was working, WiFi, LAN all worked out of the box, some yum install and my new notebook was ready to rock and roll
 
-[![Dell XPS 1530 Vs HP 6515b](http://ankurs.com/wp-content/uploads/2008/07/10072008-300x225.jpg)](http://ankurs.com/wp-content/uploads/2008/07/10072008.jpg)
+[![Dell XPS 1530 Vs HP 6515b](http://files.ankurs.com/10072008-300x225.jpg)](http://files.ankurs.com/10072008.jpg)
 
 here they are x144 and x121
 
-PS - i will be heading back to manipal on 16th, waiting for a really rocking sem..........
+PS - i will be heading back to manipal on 16th, waiting for a really rocking sem...

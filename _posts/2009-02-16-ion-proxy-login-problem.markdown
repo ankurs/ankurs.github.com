@@ -13,10 +13,10 @@ So here is a simple screencast with solution for this problem it works great in 
 
      export http_proxy=http://127.0.0.1:5865
 
-Ok coming to the main point, go and download [http://sourceforge.net/projects/ntlmaps/](http://sourceforge.net/projects/ntlmaps/) and then watch the video [here](http://ankurs.com/wp-content/uploads/2009/02/mov1.ogv)
+Ok coming to the main point, go and download [http://sourceforge.net/projects/ntlmaps/](http://sourceforge.net/projects/ntlmaps/) and then watch the video [here](http://files.ankurs.com/mov1.ogv)
 
 People on windows can install python from [here](http://python.org/ftp/python/2.6.1/python-2.6.1.msi) and then follow the steps
-[ION proxy problem solved](http://ankurs.com/wp-content/uploads/2009/02/mov1.ogv)
+[ION proxy problem solved](http://files.ankurs.com/mov1.ogv)
 
 Note:- If You face any problem please post back here....
 

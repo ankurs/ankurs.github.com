@@ -7,7 +7,7 @@ title: Google announces AppEngine
 wordpress_id: 353
 ---
 
-[![app engine](http://ankurs.com/wp-content/uploads/2008/04/appengine_lowres.jpg)](http://ankurs.com/wp-content/uploads/2008/04/appengine_lowres.jpg)
+[![app engine](http://files.ankurs.com/appengine_lowres.jpg)](http://files.ankurs.com/appengine_lowres.jpg)
 
 
 GoogleCode at their second CampFireOne announced App Engine a developer tool that enables anyone to run their web applications on Google's infrastructure , which will be a closed beta with with only 10000 developers having access on first come first serve basis. its similar to AWS (Amazon Web Services) but takes every thing further. Google App Engine applications are implemented using the Python programming language.  The runtime environment includes the full Python language and most of the Python standard library. App Engine also includes a scalable datastore, Django templating system and an open-source Python logging system. Its also provides authentication, analytics and access to Google service APIs. There is also a SDK available for local development. It also has the ability to move apps to the web in just a single command.

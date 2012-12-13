@@ -24,6 +24,6 @@ file: [fsm.c](http://gist.github.com/raw/355708/4a1b7b3d51b5f470a6c5e4344fb69e5e
 file: [main.c](http://gist.github.com/raw/355708/3b79787def0978345fa9ae3b67a2daf3ab89102a/main.c) contains an example on how this FSM can be used
 <script src="https://gist.github.com/355708.js?file=main.c"> </script>
 
-PS - If you are reading this post on a blog aggregator  like planet you can view full post [here](http://ankurs.com/2010/04/05/simple-finite-state-machines-in-c.html)
+PS - If you are reading this post on a blog aggregator  like planet you can view full post [here](http://blog.ankurs.com/2010/04/simple-finite-state-machines-in-c/)
 
 UPDATE - check out the [github repo](https://github.com/ankurs/FSM) for latest code

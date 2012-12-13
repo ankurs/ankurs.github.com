@@ -16,4 +16,4 @@ One thing about Racked Hosting -- They Rock!!!!!!!!!!  the server is extremely 
 so if you are looking for hosting you know where to go........
 
 
-[![Racked Hosting](http://ankurs.com/wp-content/uploads/2008/04/logo.jpg)](http://rackedhosting.com/)
+[![Racked Hosting](http://files.ankurs.com/logo.jpg)](http://rackedhosting.com/)

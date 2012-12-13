@@ -9,7 +9,7 @@ wordpress_id: 430
 
 Conky as its description says " It is a free, light-weight system monitor for X, that displays any information on your desktop. " which well describes all that is there, and there are many different ways to configure it, well to be presise there are 250+ objects so the configuration options are limitless
 
-[![My Desktop With Conky running ](http://ankurs.com/wp-content/uploads/2008/12/conky-300x187.png)](http://ankurs.com/wp-content/uploads/2008/12/conky.png)
+[![My Desktop With Conky running ](http://files.ankurs.com/conky-300x187.png)](http://files.ankurs.com/conky.png)
 
 above is the image of my Desktop running conky and i have 2 file one " .conkyrc " and other " .conky/ammarok " in my home folder (i.e /home/ankur/) the files are 
 " [.conkyrc](http://files.ankurs.com/conkyrc) rename the file to **_.conkyrc_** "

@@ -6,6 +6,6 @@ slug: real-programers
 title: Real Programers
 wordpress_id: 345
 ---
-<img src='http://ankurs.com/wp-content/uploads/2008/03/real_programmers.png' width='100%'/>
+<img src='http://files.ankurs.com/real_programmers.png' width='100%'/>
 
 xkcd rules!!!!!!!!!!

@@ -7,7 +7,7 @@ title: Begining Python workshop
 wordpress_id: 593
 ---
 
-[![LUG Manipal python workshop](http://ankurs.com/wp-content/uploads/2010/01/python-212x300.jpg)](http://ankurs.com/wp-content/uploads/2010/01/python.jpg)
+[![LUG Manipal python workshop](http://files.ankurs.com/python-212x300.jpg)](http://files.ankurs.com/python.jpg)
 
 LUG Manipal is organising a workshop on python, Workshop is aimed at people interested in beginning programming with python. No programming experience required.
 
@@ -17,5 +17,5 @@ Details are
     Place: NLH 103
     Date: 29th JAN to 3rd FEB
 
-PS :- Slides for the workshop are available [Begining Python Slides](http://ankurs.com/wp-content/uploads/2010/01/python.pdf)
+PS :- Slides for the workshop are available [Begining Python Slides](http://files.ankurs.com/python.pdf)
 

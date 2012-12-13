@@ -7,7 +7,7 @@ title: No iPhone for Me
 wordpress_id: 282
 ---
 
-<img src='http://ankurs.com/wp-content/uploads/2007/07/iphonehero.jpg' width="100%" /> 
+<img src='http://files.ankurs.com/iphonehero.jpg' width="100%" /> 
 
 Well i know this is kind of a late post about one of the most  hyped product the Apple iPhone which is currently being sold in USA for a hefty price and already being used by more then 5,00,000 LUCKY people or not so lucky considering they will have to use AT&T's network for 2 years, sticking for a single operator for 2 years now thats something bad, I know manny people who dot stick to a single operator for more then 2 months forget about 2 years ooh where m i going. So aah... coming to the point what will i personally say about the iPhone i mean would i really like to buy it given i have the money, well the answer is surprisingly NO. i would like to tell you my points for that
 
@@ -27,7 +27,7 @@ Well i know this is kind of a late post about one of the most  hyped product the
 
 8. **NO FLASH SUPPORT** which means  although it has Safari Browser it wont be able to  open those flash sites
 
-So my conclusion, i rather wait for  [Openmoko](http://warofwords.wordpress.com/openmoko.org) or go for [Nokia N95](http://en.wikipedia.org/wiki/Nokia_N95)
+So my conclusion, i rather wait for  [Openmoko](http://openmoko.org) or go for [Nokia N95](http://en.wikipedia.org/wiki/Nokia_N95)
 
 UPDATE:- most of these problems might get solved with its new firmware which is expected to be released around September.
 

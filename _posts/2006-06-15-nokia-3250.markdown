@@ -7,18 +7,24 @@ title: Nokia 3250
 wordpress_id: 220
 ---
 
-[![Nokia 3250](http://warofwords.files.wordpress.com/2006/06/01.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/01.jpg)[![Nokia 3250](http://warofwords.files.wordpress.com/2006/06/06.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/06.jpg)[![Nokia 3250](http://warofwords.files.wordpress.com/2006/06/03.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/03.jpg)[![Nokia 3250](http://warofwords.files.wordpress.com/2006/06/18.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/18.jpg)
+[![Nokia 3250](http://files.ankurs.com/01.thumbnail.jpg)](http://files.ankurs.com/01.jpg)
+[![Nokia 3250](http://files.ankurs.com/06.thumbnail.jpg)](http://files.ankurs.com/06.jpg)
+[![Nokia 3250](http://files.ankurs.com/03.thumbnail.jpg)](http://files.ankurs.com/03.jpg)
+[![Nokia 3250](http://files.ankurs.com/18.thumbnail.jpg)](http://files.ankurs.com/18.jpg)
 
 wow it is a very nice cell phone to own priced arnd Rs 15500 with bill its one of the best Nokia phone (+ points for **Symbian OS 9.1** and **2 MP camera**) but still OS 9.1 means it is not compatible with older applications but ne way they will start coming as most of the new phones will be based on OS 9.1 . Coming to other points the thing that i noticed was that it looks like Nokia is taking inspirations from SE coz 3230 looked like som SE phone and it also looks like one whatever is happning let it happen atleas we r seeing nice phones with some cool feature hehe
 
-[![19](http://warofwords.files.wordpress.com/2006/06/19.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/19.jpg)
+[![19](http://files.ankurs.com/19.thumbnail.jpg)](http://files.ankurs.com/19.jpg)
 
 one thing that worries me is that it uses micro SD cards which i have not seen much on the shops the largest capacity i have seen is 128MB and dont know abt the price coz it didn't bother me that time (arnd 2 months ago). Well micro SD cards are quite small and there a strange position to inset these cards in 3250
 
-[![micro SD card](http://warofwords.files.wordpress.com/2006/06/36.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/36.jpg)[![micro SD with RS-DV](http://warofwords.files.wordpress.com/2006/06/38.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/38.jpg)[![Place to insert micro SD card](http://warofwords.files.wordpress.com/2006/06/35.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/35.jpg)
+[![micro SD card](36.thumbnail.jpg)](http://files.ankurs.com/36.jpg)
+[![micro SD with RS-DV](http://files.ankurs.com/38.thumbnail.jpg)](http://ankurs.com/38.jpg)
+[![Place to insert micro SD card](http://files.ankurs.com/35.thumbnail.jpg)](http://files.ankurs.com/35.jpg)
 
 Coming to one very imp feature as it looks from the pics this phone is made for music and come on that front pretty well ( have not heard songs on SE so wont compare) the eare phones provide quite good sound and the loudspeaker is also quite loud. One good thig is that it can your flash mp3 player coz it has one inbuilt 3.5 mm earphone jack so u dont need only to listen to music from its bundled earphone or loudspeaker. It also come with a controller with a built-in microphone, which can also serve as a hands-free set which also has a hardware lock
 
-[![Earphones](http://warofwords.files.wordpress.com/2006/06/54.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/54.jpg)[![57](http://warofwords.files.wordpress.com/2006/06/57.thumbnail.jpg)](http://ankurs.com/wp-content/uploads/2006/06/57.jpg)
+[![Earphones](http://files.ankurs.com/54.thumbnail.jpg)](http://files.ankurs.com/54.jpg)
+[![57](http://files.ankurs.com/57.thumbnail.jpg)](http://files.ankurs.com/57.jpg)
 
 For your music it is recognised as a Mass Storage devise so storing your music is a piece of cake now the [full specification](http://www.gsmarena.com/nokia_3250-1296.php)
