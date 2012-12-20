@@ -8,7 +8,7 @@ tagline:
 {% assign first_post = site.posts.first %}                                                                                                                                                                  
 
 {% for post in site.posts %}
-    {% if forloop.index < 5 %}
+    {% if forloop.index < 6 %}
 #[{{ post.title }}] ({{ post.url}})# 
 Published:
 <span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span>
