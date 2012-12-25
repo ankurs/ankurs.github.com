@@ -30,3 +30,5 @@ and well [here](https://picasaweb.google.com/113231581805924611065/RaspberryPi?a
 
 <img src="https://lh3.googleusercontent.com/-fLfSg56AtI8/UNmL4AwxZZI/AAAAAAAABsw/zI6z7BBBkeQ/s800/IMG_20121217_235348.jpg" width="100%" />
 
+
+PS - [This](http://pingbin.com/2012/12/30-cool-ideas-raspberry-pi-project/) just showed up on HN!
