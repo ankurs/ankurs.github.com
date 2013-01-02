@@ -5,8 +5,6 @@ layout: post
 slug: simple-hash-tables-in-c
 title: Simple hash tables in c
 wordpress_id: 764
-categories:
-- C
 tags:
 - C
 - hast
