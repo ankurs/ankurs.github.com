@@ -22,6 +22,7 @@ Since it boots directly through an SD card converting it from one project to oth
 
 and well [here](https://picasaweb.google.com/113231581805924611065/RaspberryPi?authuser=0&feat=directlink) are some pictures
 
+<center>
 <img src="https://lh3.googleusercontent.com/-kkvqJkUILVQ/UNmL4K8piXI/AAAAAAAABsw/mFaNWkUK7AU/s800/IMG_20121217_225303.jpg" width="100%" />
 
 <img src="https://lh6.googleusercontent.com/-41e6VScRAA8/UNmL4KQ0AJI/AAAAAAAABsw/EYk2t6h4MGo/s800/IMG_20121217_225341.jpg" width="100%" />
@@ -29,6 +30,7 @@ and well [here](https://picasaweb.google.com/113231581805924611065/RaspberryPi?a
 <img src="https://lh5.googleusercontent.com/-fBYfbyAMBpg/UNmL4DFLa7I/AAAAAAAABsw/tf5lsc8XFGI/s800/IMG_20121217_235333.jpg" width="100%" />
 
 <img src="https://lh3.googleusercontent.com/-fLfSg56AtI8/UNmL4AwxZZI/AAAAAAAABsw/zI6z7BBBkeQ/s800/IMG_20121217_235348.jpg" width="100%" />
-
+</center>
 
 PS - [This](http://pingbin.com/2012/12/30-cool-ideas-raspberry-pi-project/) just showed up on HN!
+
